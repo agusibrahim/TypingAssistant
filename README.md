@@ -1,3 +1,3 @@
 ## Simple implementation of Typing Assistant, as like UC Browser
 
-![image](/storage/emulated/0/recordmaster/VideoEdit/tas.gif)
+![image](https://github.com/agusibrahim/TypingAssistant/blob/master/img/tas.gif?raw=true)
